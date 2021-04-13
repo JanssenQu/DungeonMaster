@@ -1,0 +1,185 @@
+User Interface
+
+Dungeon Master and The Grand Shop - Title made with Textcraft from textcraft.net
+Visit textcraft.net for more Copyright / License information
+
+Menu Buttons - Buttons-Blocks for UI & Gameplay by LateNighCoffe from itch.io
+https://latenighcoffe.itch.io/buttons-blocks-for-ui-gameplay
+
+Back Button - Pixel icon pack by Just A Cookie from itch.io
+https://just-a-cookie.itch.io/pixel-icon-pack
+
+Text Font - 8-Bit Madness by 1tylerule from blogfonts.com
+https://blogfonts.com/8-bit-madness-regular.font
+License: Attribution-NoDerivs 3.0 Unported (CC BY-ND 3.0)
+https://creativecommons.org/licenses/by-nd/3.0/
+
+Game Icon - Icon made by Freepik from www.flaticon.com
+https://www.flaticon.com/free-icon/helmet_2723836
+
+Upgrade Icons - 16x16 RPG Assets by ssugmi from itch.io
+https://ssugmi.itch.io/16x16-rpg-assets
+
+Shop Banner & Square Select - Pixel UI Elements Pack 1 by Vapxiel from itch.io
+https://vapxiel.itch.io/pixel-ui-elements-pack-1
+
+keyboard Icons - Kadith's icons by Kadith from itch.io
+https://kadith.itch.io/kadiths-free-icons
+
+Shop Background - Pixel User Interface by Henry Software from itch.io
+https://henrysoftware.itch.io/pixel-interface
+
+Health Bar - Health Bar by ab_dias from opengameart.org
+https://opengameart.org/content/health-bar
+Licenses: CC BY 3.0, CC0 1.0
+https://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+
+Game Assets
+
+Playable Character - Loreon Knight character by Sanctumpixel from itch.io
+https://sanctumpixel.itch.io/loreon-knight-character
+
+Coin - Gems / Coins Free by LaRedGames from itch.io
+https://laredgames.itch.io/gems-coins-free
+More License information on the site
+
+Bomb - Bomb by IndioFenix from opengameart.org
+https://opengameart.org/content/bomb-2
+Licenses: CC BY 4.0, CC BY 3.0, OGA BY 3.0, CC0
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/3.0/
+https://opengameart.org/content/oga-by-30-faq
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Explosion - Explosion Animations Pack by ansimuz from itch.io
+https://ansimuz.itch.io/explosion-animations-pack
+
+Slime - Animated Pixel Slime by rvros from itch.io
+https://rvros.itch.io/pixel-art-animated-slime
+
+Goblin - Monsters Creatures Fantasy by LuizMelo from itch.io
+https://luizmelo.itch.io/monsters-creatures-fantasy
+License: Creative Commons Zero (CC0)
+More information on the site
+
+Monster - Imp & Axe Demon Pixel Art Character by Sanctupixel from itch.io
+https://sanctumpixel.itch.io/imp-axe-demon-pixel-art-character
+
+
+Game Background
+
+Menu Backgroud Image - SLYNYRD Pixels Pixelblog by Raymond Schlitter from www.slynyrd.com
+https://www.slynyrd.com/blog/2019/4/23/pixelblog-16-medieval-fantasy
+
+Game Background - Top Down Pixel Art Dungeon by The Game Assets Mine from thegameassetsmine.com
+Visit thegameassetmine.com for more information about licensing
+
+
+Music & Sounds
+
+Menu Music - The River by Rolemusic from freemusicarchive.org
+https://freemusicarchive.org/music/Rolemusic/~/The_River_1161
+License: Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Game Music - Tower Defence Ending by Sawsquarenoise from freemusicarchive.org
+https://freemusicarchive.org/music/sawsquarenoise/Towel_Defence_OST/Towel_Defence_Ending
+License: Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Coin Sound - Coins 1 by ProjectsU012 from freesound.org
+https://freesound.org/people/ProjectsU012/sounds/341695/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+HP Sound - Retro Game Heal Sound by lulyc from freesound.org
+https://freesound.org/people/lulyc/sounds/346116/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Weapon Sound - Sword Hit by qubodup from freesound.org
+https://freesound.org/people/qubodup/sounds/442769/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Denied Sound - Access Denied by suntemple from freesound.org
+https://freesound.org/people/suntemple/sounds/249300/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Menu Selection Sound - Menu Selection Click by NenadSimic from opengameart.org
+https://opengameart.org/content/menu-selection-click
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Shop Sound - FX_Doorbell Pull without pull Store Bell 04.wav by maisonsonique from freesound.org
+https://freesound.org/people/maisonsonique/sounds/196380/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Item Sound - inspect item.wav by niamhd00145229 from freesound.org
+https://freesound.org/people/niamhd00145229/sounds/422709/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Food Sound - Crunch.wav by MATRIXXX_ from freesound.org
+https://freesound.org/people/MATRIXXX_/sounds/348112/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Explosion Sound - Short Explosion 1 by ProjectsU012 from freesound.org
+https://freesound.org/people/ProjectsU012/sounds/334266/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Player Hit Sound - 8-bit damage-impact-break sounds.wav by EVRetro from freesound.org
+https://freesound.org/people/EVRetro/sounds/519072/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Slime Hit Sound - SlimeJump.wav by Zukek06 from freesound.org
+https://freesound.org/people/Zuzek06/sounds/353250/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+slime Death Sound - Slime Death (1) by DrMinky from freesound.org
+https://freesound.org/people/DrMinky/sounds/167074/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Slime Attack Sound - Slime by Lukeo135 from freesound.org
+https://freesound.org/people/Lukeo135/sounds/530617/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Monster Hit Sound - grunt2.wav by Michel88 from freesound.org
+https://freesound.org/people/Michel88/sounds/76964/
+License: Sampling Plus 1.0
+https://creativecommons.org/licenses/sampling+/1.0/
+
+Monster Death Sound - paine.wav by Michel88 from freesound.org
+https://freesound.org/people/Michel88/sounds/76972/
+License: Sampling Plus 1.0
+https://creativecommons.org/licenses/sampling+/1.0/
+
+Monster Axe Sound - Swinging axe.mp3 by ShortRecord from freesound.org
+https://freesound.org/people/ShortRecord/sounds/514162/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Goblin Hit Sound - Goblin Death.wav by spookymodem from freesound.org
+https://freesound.org/people/spookymodem/sounds/249813/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Goblin Death Sound - Goblin Scream.wav by spookymodem from freesound.org
+https://freesound.org/people/spookymodem/sounds/202100/
+License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Goblin Dagger Sound - Sword Swing B - Medium 08.wav by Glaneur de sons from freesound.org
+https://freesound.org/people/Glaneur%20de%20sons/sounds/420617/
+License: Attribution 3.0 Unported (CC BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
